@@ -7,7 +7,7 @@ This is a revival of RoControl written in Python. This is a remote admin similar
 While using PrikolsHub RoControl, make sure you follow Discord's TOS, Roblox's TOS and Community Standarts.
 As well, you also have to follow the PrikolsHub RoControl rules:
 
-**1. No Absuing Commands** - Do not spam commands or load images in sessions which the owner is in, or you will receive the banned role, making you unable to use any `/session` commands.
+**1. No Abusing Commands** - Do not spam commands or load images in sessions which the owner is in, or you will receive the banned role, making you unable to use any `/session` commands.
 
 **2. No Leaking Script & Invite** - Simple. Just don't give away the script and invite to the discord. (Or you will get kicked or banned based on severity)
 
